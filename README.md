@@ -32,6 +32,20 @@ CS공부 및 정리하는 레포입니다.
 - 메모리(Memory)
 - 파일 시스템
 
+## Database
+
+- 키(Key) 정리
+- SQL - JOIN
+- SQL Injection
+- SQL vs NoSQL
+- 정규화(Nomalization)
+- 이상(Anomaly)
+- 인덱스(INDEX)
+- 트랜잭션(Transaction)
+- 트랜잭션 격리 수준(Transaction Isolation Level)
+- 레디스(Redis)
+
+
 ## Reference
 
 [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
